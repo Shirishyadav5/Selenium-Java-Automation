@@ -1,6 +1,6 @@
 package S3_IMP_Questions;
 
-public class Ex1_HowToDebugCode
+public class Ex2_HowToDebugCode
 {
     static void main(String[] args) {
 
