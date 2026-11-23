@@ -15,11 +15,5 @@ public class Ex3_AnyAttribute
 //        driver.findElement(By.cssSelector("*[id='name']")).sendKeys("abc");
         driver.findElement(By.cssSelector("[id='name']")).sendKeys("abc");
 
-
-
-
-
-
-
     }
 }
